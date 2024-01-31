@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-kumar-111&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-kumar-111" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh-kumar-111" alt="harsh-kumar-111" /></a> </p>
-
 - 🔭 I’m currently working on [Sorting Visualizer](https://github.com/HARSH-KUMAR-111/Sorting-Visualizer)
 
 - 🌱 I’m currently learning **JavaScript & Reactjs**
